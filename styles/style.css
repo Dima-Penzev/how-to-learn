@@ -329,5 +329,19 @@ font-weight: normal;
 }
 
 .footer__social-icon {
+  height: 16px;
+  width: 16px;  
   margin-right: 10px;
+}
+
+.footer__social-icon_type_youtube {
+  background-image: url(../images/youtube-icon.svg);
+}
+
+.footer__social-icon_type_vk {
+  background-image: url(../images/vk_color_white.svg);
+}
+
+.footer__social-icon_type_tiktok {
+  background-image: url(../images/tiktok-icon.svg);
 }
