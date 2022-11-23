@@ -3,6 +3,7 @@
 @import url(../bloks/header/header.css);
 @import url(../bloks/logo/logo.css);
 @import url(../bloks/logo/_place/logo_place_header.css);
+@import url(../bloks/fading/fading.css);
 @import url(../bloks/header/__title/header__title.css);
 @import url(../bloks/header/__subtitle/header__subtitle.css);
 @import url(../bloks/header/__link/header__link.css);
@@ -38,7 +39,6 @@
 @import url(../bloks/table/__cell/table__cell.css);
 @import url(../bloks/table/__heading/table__heading.css);
 @import url(../bloks/table/__text/table__text.css);
-
 @import url(../bloks/khan/khan.css);
 @import url(../bloks/khan/__container/khan__container.css);
 @import url(../bloks/khan/__author/khan__author.css);
@@ -49,13 +49,16 @@
 @import url(../bloks/khan/__book-container/khan__book-container.css);
 @import url(../bloks/khan/__book-pic/khan__book-pic.css);
 @import url(../bloks/khan/__buy-link/__buy-link.css);
-
 @import url(../bloks/kaufman/kaufman.css);
 @import url(../bloks/section-title/_theme/section-title_theme_dark.css);
 @import url(../bloks/section-subtitle/_theme/section-subtitle_theme_dark.css);
 @import url(../bloks/table/_theme/table_theme_dark.css);
 @import url(../bloks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(../bloks/kaufman/__triangle/kaufman__triangle.css);
+@import url(../bloks/resources/resources.css);
+@import url(../bloks/resources/__logo-zone/resources__logo-zone.css);
+@import url(../bloks/resources/__link/resources__link.css);
+@import url(../bloks/resources/__logo/resources__logo.css);
 @import url(../bloks/footer/footer.css);
 @import url(../bloks/footer/__columns/footer__columns.css);
 @import url(../bloks/footer/__column/footer__column.css);
