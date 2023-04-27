@@ -15,3 +15,5 @@ The project contains statistical data concerning the education and work of the h
  - BEM
  
  In this project, I honed my initial layout skills. The "How to learn" project has been completed and will not be updated.
+ 
+ **Link to** [How to learn](https://dima-penzev.github.io/how-to-learn/index.html)
